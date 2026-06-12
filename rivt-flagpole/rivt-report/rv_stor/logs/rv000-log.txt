@@ -1,0 +1,16 @@
+06-12 09:34  rv000-flagpole_fdn   INFO     Doc start
+06-12 09:34  rv000-flagpole_fdn   INFO     rivtlib version: 1.0.0a5
+06-12 09:34  rv000-flagpole_fdn   INFO     rivt backup : c:\git\rivt-example-02-git\rivt-report\rv_stor\logs\rv000-flagpole_fdn.bak
+06-12 09:34  rv000-flagpole_fdn   INFO     Project description
+06-12 09:34  rv000-flagpole_fdn   INFO     SECTION 0.0 - type I
+06-12 09:34  rv000-flagpole_fdn   INFO     Design input 
+06-12 09:34  rv000-flagpole_fdn   INFO     SECTION 0.0 - 2 - type V
+06-12 09:34  rv000-flagpole_fdn   INFO     command : IMAGE
+06-12 09:34  rv000-flagpole_fdn   DEBUG    STREAM b'IHDR' 16 13
+06-12 09:34  rv000-flagpole_fdn   DEBUG    STREAM b'IDAT' 41 8192
+06-12 09:34  rv000-flagpole_fdn   INFO     tag : _[T]
+06-12 09:34  rv000-flagpole_fdn   INFO     command : PYTHON
+06-12 09:34  rv000-flagpole_fdn   INFO     Design Results 
+06-12 09:34  rv000-flagpole_fdn   INFO     SECTION 0.0 - 3 - type V
+06-12 09:34  rv000-flagpole_fdn   INFO     SECTION : Publish doc
+06-12 09:34  rv000-flagpole_fdn   INFO     block tag : METADATA]]
