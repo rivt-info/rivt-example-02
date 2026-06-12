@@ -100,13 +100,13 @@ Depth_constrained(d, P, h, dia, PFP)          Calculate required pole embedment 
 
            depth₁ = 15.52 ft     [depth₁] = 4.73 m   | Required embed - nonconstrained
 
-           b                               PFP                        h        d                            P
-           ——————————————————————————————  —————————————————————————  ———————  ———————————————————————————  ———————————————
-           24.00 inch                      200.00 pcf                 1.50 ft  10.00 ft                     24.84 kips
-           —————                           —————                      —————    —————                        —————
-           width of concrete drilled pier  allowable lateral bearing  height   initial guess for embedment  horizontal load
-           -                               pressure - sandy gravel    -        depth                        -
-           ——————————————————————————————  —————————————————————————  ———————  ———————————————————————————  ———————————————
+           P                d                            PFP                        b                               h
+           ———————————————  ———————————————————————————  —————————————————————————  ——————————————————————————————  ———————
+           24.84 kips       10.00 ft                     200.00 pcf                 24.00 inch                      1.50 ft
+           —————            —————                        —————                      —————                           —————
+           horizontal load  initial guess for embedment  allowable lateral bearing  width of concrete drilled pier  height
+           -                depth                        pressure - sandy gravel    -                               -
+           ———————————————  ———————————————————————————  —————————————————————————  ——————————————————————————————  ———————
 
 
  
@@ -123,13 +123,13 @@ Depth_constrained(d, P, h, dia, PFP)          Calculate required pole embedment 
 
            depth₂ = 7.34 ft     [depth₂] = 2.24 m   | Required embed - constrained
 
-           b                               PFP                        h        d                            P
-           ——————————————————————————————  —————————————————————————  ———————  ———————————————————————————  ———————————————
-           24.00 inch                      200.00 pcf                 1.50 ft  10.00 ft                     24.84 kips
-           —————                           —————                      —————    —————                        —————
-           width of concrete drilled pier  allowable lateral bearing  height   initial guess for embedment  horizontal load
-           -                               pressure - sandy gravel    -        depth                        -
-           ——————————————————————————————  —————————————————————————  ———————  ———————————————————————————  ———————————————
+           P                d                            PFP                        b                               h
+           ———————————————  ———————————————————————————  —————————————————————————  ——————————————————————————————  ———————
+           24.84 kips       10.00 ft                     200.00 pcf                 24.00 inch                      1.50 ft
+           —————            —————                        —————                      —————                           —————
+           horizontal load  initial guess for embedment  allowable lateral bearing  width of concrete drilled pier  height
+           -                depth                        pressure - sandy gravel    -                               -
+           ———————————————  ———————————————————————————  —————————————————————————  ——————————————————————————————  ———————
 
 
  

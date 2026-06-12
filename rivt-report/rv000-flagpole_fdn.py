@@ -53,7 +53,7 @@ rv.V("""Design Results
 # %% publish doc
 rv.D("""Publish doc
 
-    | PUBLISH | Flag Pole Foundation | txt
+    | PUBLISH | Flag Pole Foundation | html
 
     _[[METADATA]] 
     [doc]
@@ -82,7 +82,7 @@ rv.D("""Publish doc
     pdf_margins = 1in, 1in, 1in, 1in 
     pdf_link_underline = false
     ;----- table of contents levels: = 1 shows subdivisions, = 2 includes sections. 
-    toc_level = 2
+    toc_level = 1
 
     [process]
     doc_verbose = true; if false, minimum output during doc processing

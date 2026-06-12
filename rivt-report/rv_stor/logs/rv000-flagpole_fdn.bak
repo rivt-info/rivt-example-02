@@ -3,7 +3,7 @@
 import rivtlib.rvapi as rv
 
 
-# The following settings change defaults (shown n parenthesis) for each doc.
+# The following settings change defaults (shown n parenthesis) for each doc. xx
 # A leading hash (#) and trailing semicolon (;) are required.
 # rv set_width = 80  ; character width of text output (80)
 # rv no_tag = true ; if false, the API type is added to section number (true)
@@ -53,7 +53,7 @@ rv.V("""Design Results
 # %% publish doc
 rv.D("""Publish doc
 
-    | PUBLISH | Flag Pole Foundation | txt
+    | PUBLISH | Flag Pole Foundation | html
 
     _[[METADATA]] 
     [doc]
@@ -82,7 +82,7 @@ rv.D("""Publish doc
     pdf_margins = 1in, 1in, 1in, 1in 
     pdf_link_underline = false
     ;----- table of contents levels: = 1 shows subdivisions, = 2 includes sections. 
-    toc_level = 2
+    toc_level = 1
 
     [process]
     doc_verbose = true; if false, minimum output during doc processing

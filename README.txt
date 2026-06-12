@@ -1,6 +1,6 @@
 
 --------------------------------------------------------------------------------
-Flag Pole Foundation | R Ward | v-1.0.0a12 | 2026-06-12 - 09:34AM
+| rivt | Flag Pole Foundation | R Ward | v-1.0.0a12 | 2026-06-12 - 04:09PM
 --------------------------------------------------------------------------------
 
 
@@ -65,14 +65,14 @@ Depth_constrained(d, P, h, dia, PFP)          Calculate required pole embedment 
 
 depth₁ = 15.52 ft   [depth₁] = 4.73 m  | Required embed - nonconstrained
 
-===========================  =========================  ==============================  ===============  =======
-d                            PFP                        b                               P                h
-===========================  =========================  ==============================  ===============  =======
-10.00 ft                     200.00 pcf                 24.00 inch                      24.84 kips       1.50 ft
-—————                        —————                      —————                           —————            —————
-initial guess for embedment  allowable lateral bearing  width of concrete drilled pier  horizontal load  height
-depth                        pressure - sandy gravel    -                               -                -
-===========================  =========================  ==============================  ===============  =======
+===============  ===========================  =========================  ==============================  =======
+P                d                            PFP                        b                               h
+===============  ===========================  =========================  ==============================  =======
+24.84 kips       10.00 ft                     200.00 pcf                 24.00 inch                      1.50 ft
+—————            —————                        —————                      —————                           —————
+horizontal load  initial guess for embedment  allowable lateral bearing  width of concrete drilled pier  height
+-                depth                        pressure - sandy gravel    -                               -
+===============  ===========================  =========================  ==============================  =======
  
 
 ┌  Eq-2 | Required embed - constrained
@@ -82,13 +82,13 @@ depth                        pressure - sandy gravel    -                       
 
 depth₂ = 7.34 ft   [depth₂] = 2.24 m  | Required embed - constrained
 
-===========================  =========================  ==============================  ===============  =======
-d                            PFP                        b                               P                h
-===========================  =========================  ==============================  ===============  =======
-10.00 ft                     200.00 pcf                 24.00 inch                      24.84 kips       1.50 ft
-—————                        —————                      —————                           —————            —————
-initial guess for embedment  allowable lateral bearing  width of concrete drilled pier  horizontal load  height
-depth                        pressure - sandy gravel    -                               -                -
-===========================  =========================  ==============================  ===============  =======
+===============  ===========================  =========================  ==============================  =======
+P                d                            PFP                        b                               h
+===============  ===========================  =========================  ==============================  =======
+24.84 kips       10.00 ft                     200.00 pcf                 24.00 inch                      1.50 ft
+—————            —————                        —————                      —————                           —————
+horizontal load  initial guess for embedment  allowable lateral bearing  width of concrete drilled pier  height
+-                depth                        pressure - sandy gravel    -                               -
+===============  ===========================  =========================  ==============================  =======
  
  
