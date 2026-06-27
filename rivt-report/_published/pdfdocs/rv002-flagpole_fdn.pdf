@@ -2,7 +2,7 @@
 %ìåãû ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/F1+0 15 0 R /F2+0 19 0 R /F3+0 23 0 R /F4+0 27 0 R
+/F1+0 19 0 R /F2+0 23 0 R /F3+0 27 0 R /F4+0 31 0 R
 >>
 endobj
 2 0 obj
@@ -39,8 +39,12 @@ Gb"0;0`_7S!5bE.WTS1(TE"rlzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
 endobj
 6 0 obj
 <<
-/Contents 35 0 R /MediaBox [ 0 0 612 792 ] /Parent 34 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
+/Contents 39 0 R /MediaBox [ 0 0 612 792 ] /Parent 38 0 R /Resources <<
+/ExtGState <<
+/gRLs0 <<
+/CA 0
+>>
+>> /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
 /FormXob.06470f73e748f42302f5b3db6038d0c6 2 0 R /FormXob.4722e960834dd2cb08e8efc4354ed215 4 0 R
 >>
 >> /Rotate 0 /Trans <<
@@ -51,18 +55,42 @@ endobj
 endobj
 7 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 10 0 R /XYZ 48.51969 718.678 0 ] /Rect [ 51.35433 646.2085 173.2103 657.0085 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 14 0 R /XYZ 48.51969 718.678 0 ] /Rect [ 51.35433 646.2085 173.2103 657.0085 ] /Subtype /Link /Type /Annot
 >>
 endobj
 8 0 obj
 <<
-/Border [ 0 0 0 ] /Contents () /Dest [ 10 0 R /XYZ 48.51969 718.678 0 ] /Rect [ 557.2181 646.8835 563.4803 657.6835 ] /Subtype /Link /Type /Annot
+/Border [ 0 0 0 ] /Contents () /Dest [ 14 0 R /XYZ 48.51969 718.678 0 ] /Rect [ 557.2181 646.8835 563.4803 657.6835 ] /Subtype /Link /Type /Annot
 >>
 endobj
 9 0 obj
 <<
-/Annots [ 7 0 R 8 0 R ] /Contents 36 0 R /MediaBox [ 0 0 612 792 ] /Parent 34 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
+/Border [ 0 0 0 ] /Contents () /Dest [ 14 0 R /XYZ 48.51969 624.3715 0 ] /Rect [ 71.35433 629.4085 169.4007 640.2085 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 14 0 R /XYZ 48.51969 624.3715 0 ] /Rect [ 557.7542 630.0835 563.4803 640.8835 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 14 0 R /XYZ 48.51969 97.76647 0 ] /Rect [ 71.35433 612.6085 179.1522 623.4085 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 14 0 R /XYZ 48.51969 97.76647 0 ] /Rect [ 557.7542 613.2835 563.4803 624.0835 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/Annots [ 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R ] /Contents 40 0 R /MediaBox [ 0 0 612 792 ] /Parent 38 0 R /Resources <<
+/ExtGState <<
+/gRLs0 <<
+/CA 0
+>>
+>> /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
 /FormXob.4722e960834dd2cb08e8efc4354ed215 4 0 R
 >>
 >> /Rotate 0 
@@ -71,10 +99,14 @@ endobj
 >> /Type /Page
 >>
 endobj
-10 0 obj
+14 0 obj
 <<
-/Contents 37 0 R /MediaBox [ 0 0 612 792 ] /Parent 34 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
+/Contents 41 0 R /MediaBox [ 0 0 612 792 ] /Parent 38 0 R /Resources <<
+/ExtGState <<
+/gRLs0 <<
+/CA 0
+>>
+>> /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
 /FormXob.06470f73e748f42302f5b3db6038d0c6 2 0 R /FormXob.4722e960834dd2cb08e8efc4354ed215 4 0 R
 >>
 >> /Rotate 0 /Trans <<
@@ -83,10 +115,14 @@ endobj
   /Type /Page
 >>
 endobj
-11 0 obj
+15 0 obj
 <<
-/Contents 38 0 R /MediaBox [ 0 0 612 792 ] /Parent 34 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
+/Contents 42 0 R /MediaBox [ 0 0 612 792 ] /Parent 38 0 R /Resources <<
+/ExtGState <<
+/gRLs0 <<
+/CA 0
+>>
+>> /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
 /FormXob.4722e960834dd2cb08e8efc4354ed215 4 0 R
 >>
 >> /Rotate 0 /Trans <<
@@ -95,7 +131,7 @@ endobj
   /Type /Page
 >>
 endobj
-12 0 obj
+16 0 obj
 <<
 /Length 1882
 >>
@@ -248,7 +284,7 @@ CMapName currentdict /CMap defineresource pop
 end
 endendstream
 endobj
-13 0 obj
+17 0 obj
 <<
 /Length 35660 /Length1 35660
 >>
@@ -683,16 +719,16 @@ from Tavmjong Bah. For further information, contact: tavmjong @ free
 WW2V˛UTUBTSSRQJQ˛PO˛NMN˛ML˛KJK˛JIJIIHG˛FñEñD˛C-C˙BªAK@˛?˛>=>=<=<;<@ˇ;:˛9˛878˙767656543212˛10/0/.-	.-	,2+*%+d*)*%)('%(A'%&%&%$˛#˛"!! d˙dB˛˙BB˛d˛˛˛˛B˛-B}d˛˛˛
 	˛-˛d˛@-˛- ˛∏dÖç+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++endstream
 endobj
-14 0 obj
+18 0 obj
 <<
-/Ascent 759.7656 /CapHeight 759.7656 /Descent -240.2344 /Flags 4 /FontBBox [ -1020.508 -462.8906 1793.457 1232.422 ] /FontFile2 13 0 R 
+/Ascent 759.7656 /CapHeight 759.7656 /Descent -240.2344 /Flags 4 /FontBBox [ -1020.508 -462.8906 1793.457 1232.422 ] /FontFile2 17 0 R 
   /FontName /AAAAAA+DejaVuSans /ItalicAngle 0 /MissingWidth 600.0977 /StemV 87 /Type /FontDescriptor
 >>
 endobj
-15 0 obj
+19 0 obj
 <<
-/BaseFont /AAAAAA+DejaVuSans /FirstChar 0 /FontDescriptor 14 0 R /LastChar 127 /Name /F1+0 /Subtype /TrueType 
-  /ToUnicode 12 0 R /Type /Font /Widths [ 600.0977 518.0664 518.0664 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 
+/BaseFont /AAAAAA+DejaVuSans /FirstChar 0 /FontDescriptor 18 0 R /LastChar 127 /Name /F1+0 /Subtype /TrueType 
+  /ToUnicode 16 0 R /Type /Font /Widths [ 600.0977 518.0664 518.0664 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 
   600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 
   600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 
   600.0977 600.0977 317.8711 400.8789 459.9609 837.8906 636.2305 950.1953 779.7852 274.9023 
@@ -707,7 +743,7 @@ endobj
   591.7969 591.7969 524.9023 636.2305 336.9141 636.2305 837.8906 600.0977 ]
 >>
 endobj
-16 0 obj
+20 0 obj
 <<
 /Length 1897
 >>
@@ -860,7 +896,7 @@ CMapName currentdict /CMap defineresource pop
 end
 endendstream
 endobj
-17 0 obj
+21 0 obj
 <<
 /Length 35128 /Length1 35128
 >>
@@ -1294,16 +1330,16 @@ from Tavmjong Bah. For further information, contact: tavmjong @ free
 ˛
 @˙d˛  ∏dÖç+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ endstream
 endobj
-18 0 obj
+22 0 obj
 <<
-/Ascent 759.7656 /CapHeight 759.7656 /Descent -240.2344 /Flags 262148 /FontBBox [ -1069.336 -415.0391 1975.098 1174.316 ] /FontFile2 17 0 R 
+/Ascent 759.7656 /CapHeight 759.7656 /Descent -240.2344 /Flags 262148 /FontBBox [ -1069.336 -415.0391 1975.098 1174.316 ] /FontFile2 21 0 R 
   /FontName /AAAAAA+DejaVuSans-Bold /ItalicAngle 0 /MissingWidth 600.0977 /StemV 165 /Type /FontDescriptor
 >>
 endobj
-19 0 obj
+23 0 obj
 <<
-/BaseFont /AAAAAA+DejaVuSans-Bold /FirstChar 0 /FontDescriptor 18 0 R /LastChar 127 /Name /F2+0 /Subtype /TrueType 
-  /ToUnicode 16 0 R /Type /Font /Widths [ 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 
+/BaseFont /AAAAAA+DejaVuSans-Bold /FirstChar 0 /FontDescriptor 22 0 R /LastChar 127 /Name /F2+0 /Subtype /TrueType 
+  /ToUnicode 20 0 R /Type /Font /Widths [ 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 
   600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 
   600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 600.0977 
   600.0977 600.0977 348.1445 456.0547 520.9961 837.8906 695.8008 1001.953 872.0703 306.1523 
@@ -1318,7 +1354,7 @@ endobj
   645.0195 651.8555 582.0312 711.9141 365.2344 711.9141 837.8906 600.0977 ]
 >>
 endobj
-20 0 obj
+24 0 obj
 <<
 /Length 1894
 >>
@@ -1471,7 +1507,7 @@ CMapName currentdict /CMap defineresource pop
 end
 endendstream
 endobj
-21 0 obj
+25 0 obj
 <<
 /Length 25896 /Length1 25896
 >>
@@ -1686,16 +1722,16 @@ Except as contained in this notice, the names of Gnome, the Gnome Foundation, an
 	
 ˛	˛-˛:˙-: - ∏dÖç+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ endstream
 endobj
-22 0 obj
+26 0 obj
 <<
-/Ascent 759.7656 /CapHeight 759.7656 /Descent -240.2344 /Flags 5 /FontBBox [ -557.6172 -374.5117 717.7734 1027.832 ] /FontFile2 21 0 R 
+/Ascent 759.7656 /CapHeight 759.7656 /Descent -240.2344 /Flags 5 /FontBBox [ -557.6172 -374.5117 717.7734 1027.832 ] /FontFile2 25 0 R 
   /FontName /AAAAAA+DejaVuSansMono /ItalicAngle 0 /MissingWidth 602.0508 /StemV 87 /Type /FontDescriptor
 >>
 endobj
-23 0 obj
+27 0 obj
 <<
-/BaseFont /AAAAAA+DejaVuSansMono /FirstChar 0 /FontDescriptor 22 0 R /LastChar 127 /Name /F3+0 /Subtype /TrueType 
-  /ToUnicode 20 0 R /Type /Font /Widths [ 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 
+/BaseFont /AAAAAA+DejaVuSansMono /FirstChar 0 /FontDescriptor 26 0 R /LastChar 127 /Name /F3+0 /Subtype /TrueType 
+  /ToUnicode 24 0 R /Type /Font /Widths [ 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 
   602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 
   602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 
   602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 
@@ -1710,7 +1746,7 @@ endobj
   602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 ]
 >>
 endobj
-24 0 obj
+28 0 obj
 <<
 /Length 1909
 >>
@@ -1863,7 +1899,7 @@ CMapName currentdict /CMap defineresource pop
 end
 endendstream
 endobj
-25 0 obj
+29 0 obj
 <<
 /Length 25244 /Length1 25244
 >>
@@ -2078,16 +2114,16 @@ Except as contained in this notice, the names of Gnome, the Gnome Foundation, an
 ∏Ä@		
 ∏@¥	∏ @ñ  ∏dÖç++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++endstream
 endobj
-26 0 obj
+30 0 obj
 <<
-/Ascent 759.7656 /CapHeight 759.7656 /Descent -240.2344 /Flags 262149 /FontBBox [ -446.7773 -394.043 730.957 1041.016 ] /FontFile2 25 0 R 
+/Ascent 759.7656 /CapHeight 759.7656 /Descent -240.2344 /Flags 262149 /FontBBox [ -446.7773 -394.043 730.957 1041.016 ] /FontFile2 29 0 R 
   /FontName /AAAAAA+DejaVuSansMono-Bold /ItalicAngle 0 /MissingWidth 602.0508 /StemV 165 /Type /FontDescriptor
 >>
 endobj
-27 0 obj
+31 0 obj
 <<
-/BaseFont /AAAAAA+DejaVuSansMono-Bold /FirstChar 0 /FontDescriptor 26 0 R /LastChar 127 /Name /F4+0 /Subtype /TrueType 
-  /ToUnicode 24 0 R /Type /Font /Widths [ 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 
+/BaseFont /AAAAAA+DejaVuSansMono-Bold /FirstChar 0 /FontDescriptor 30 0 R /LastChar 127 /Name /F4+0 /Subtype /TrueType 
+  /ToUnicode 28 0 R /Type /Font /Widths [ 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 
   602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 
   602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 
   602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 
@@ -2102,45 +2138,45 @@ endobj
   602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 602.0508 ]
 >>
 endobj
-28 0 obj
-<<
-/Outlines 30 0 R /PageLabels 39 0 R /PageMode /UseNone /Pages 34 0 R /Type /Catalog
->>
-endobj
-29 0 obj
-<<
-/Author () /CreationDate (D:20260612122650-07'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260612122650-07'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title () /Trapped /False
->>
-endobj
-30 0 obj
-<<
-/Count 2 /First 31 0 R /Last 31 0 R /Type /Outlines
->>
-endobj
-31 0 obj
-<<
-/Count -2 /Dest [ 10 0 R /XYZ 48.51969 718.678 0 ] /First 32 0 R /Last 33 0 R /Parent 30 0 R /Title (0.0 | Project description)
->>
-endobj
 32 0 obj
 <<
-/Dest [ 10 0 R /XYZ 48.51969 624.3715 0 ] /Next 33 0 R /Parent 31 0 R /Title (0.0 - 2 | Design input)
+/Outlines 34 0 R /PageLabels 43 0 R /PageMode /UseNone /Pages 38 0 R /Type /Catalog
 >>
 endobj
 33 0 obj
 <<
-/Dest [ 11 0 R /XYZ 51.35433 718.678 0 ] /Parent 31 0 R /Prev 32 0 R /Title (0.0 - 3 | Design Results)
+/Author () /CreationDate (D:20260626170750-07'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260626170750-07'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title () /Trapped /False
 >>
 endobj
 34 0 obj
 <<
-/Count 4 /Kids [ 6 0 R 9 0 R 10 0 R 11 0 R ] /Type /Pages
+/Count 4 /First 35 0 R /Last 35 0 R /Type /Outlines
 >>
 endobj
 35 0 obj
 <<
-/Length 2827
+/Count 2 /Dest [ 14 0 R /XYZ 48.51969 718.678 0 ] /First 36 0 R /Last 37 0 R /Parent 34 0 R /Title (0.2 | Project description)
+>>
+endobj
+36 0 obj
+<<
+/Dest [ 14 0 R /XYZ 48.51969 624.3715 0 ] /Next 37 0 R /Parent 35 0 R /Title (0.2 - 2 | Design input)
+>>
+endobj
+37 0 obj
+<<
+/Dest [ 14 0 R /XYZ 48.51969 97.76647 0 ] /Parent 35 0 R /Prev 36 0 R /Title (0.2 - 3 | Design Results)
+>>
+endobj
+38 0 obj
+<<
+/Count 4 /Kids [ 6 0 R 13 0 R 14 0 R 15 0 R ] /Type /Pages
+>>
+endobj
+39 0 obj
+<<
+/Length 3216
 >>
 stream
 1 0 0 1 0 0 cm 
@@ -2162,31 +2198,31 @@ BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 48.51969 713.315 cm
+1 0 0 1 48.51969 702.315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
+Q
 Q
 q
-1 0 0 1 176.5512 375.7656 cm
+1 0 0 1 48.51969 689.315 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 687.315 cm
+Q
+q
+1 0 0 1 176.5512 349.7656 cm
 q
 256.063 0 0 332.5493 0 0 cm
 /FormXob.06470f73e748f42302f5b3db6038d0c6 Do
 Q
 Q
 q
-1 0 0 1 48.51969 364.7656 cm
-Q
-q
-1 0 0 1 48.51969 352.7656 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
-Q
-Q
-q
-1 0 0 1 48.51969 339.7656 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
-Q
+1 0 0 1 48.51969 338.7656 cm
 Q
 q
 1 0 0 1 48.51969 326.7656 cm
@@ -2196,17 +2232,18 @@ BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 48.51969 324.7656 cm
-Q
-q
-1 0 0 1 48.51969 306.7656 cm
+1 0 0 1 48.51969 313.7656 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm 199.9002 0 Td /F1+0 11 Tf 12 TL (Example 2 - rivt Doc) Tj T* -199.9002 0 Td ET
+BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 48.51969 299.7656 cm
+1 0 0 1 48.51969 300.7656 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
+Q
 Q
 q
 1 0 0 1 48.51969 287.7656 cm
@@ -2216,24 +2253,24 @@ BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 48.51969 285.7656 cm
-Q
-q
-1 0 0 1 48.51969 267.7656 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 -3 Tm 177.5986 0 Td /F1+0 15 Tf 12 TL (Flag Pole Foundation) Tj T* -177.5986 0 Td ET
-Q
-Q
-q
-1 0 0 1 48.51969 260.7656 cm
-Q
-q
-1 0 0 1 48.51969 248.7656 cm
+1 0 0 1 48.51969 274.7656 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
 Q
+Q
+q
+1 0 0 1 48.51969 272.7656 cm
+Q
+q
+1 0 0 1 48.51969 254.7656 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm 209.1384 0 Td /F1+0 11 Tf 12 TL (Pole Embedment) Tj T* -209.1384 0 Td ET
+Q
+Q
+q
+1 0 0 1 48.51969 247.7656 cm
 Q
 q
 1 0 0 1 48.51969 235.7656 cm
@@ -2243,18 +2280,17 @@ BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 48.51969 222.7656 cm
+1 0 0 1 48.51969 233.7656 cm
+Q
+q
+1 0 0 1 48.51969 215.7656 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
+BT 1 0 0 1 0 -3 Tm 132.5767 0 Td /F1+0 15 Tf 12 TL (Example 2 - Flagpole Foundation) Tj T* -132.5767 0 Td ET
 Q
 Q
 q
-1 0 0 1 48.51969 209.7656 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
-Q
+1 0 0 1 48.51969 208.7656 cm
 Q
 q
 1 0 0 1 48.51969 196.7656 cm
@@ -2264,17 +2300,18 @@ BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 48.51969 194.7656 cm
-Q
-q
-1 0 0 1 48.51969 176.7656 cm
+1 0 0 1 48.51969 183.7656 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm 217.9175 0 Td /F1+0 11 Tf 12 TL (User Example) Tj T* -217.9175 0 Td ET
+BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 48.51969 169.7656 cm
+1 0 0 1 48.51969 170.7656 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
+Q
 Q
 q
 1 0 0 1 48.51969 157.7656 cm
@@ -2284,17 +2321,44 @@ BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 48.51969 155.7656 cm
+1 0 0 1 48.51969 144.7656 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
+Q
 Q
 q
-1 0 0 1 48.51969 137.7656 cm
+1 0 0 1 48.51969 142.7656 cm
+Q
+q
+1 0 0 1 48.51969 124.7656 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1 Tm 217.9175 0 Td /F1+0 11 Tf 12 TL (User Example) Tj T* -217.9175 0 Td ET
+Q
+Q
+q
+1 0 0 1 48.51969 117.7656 cm
+Q
+q
+1 0 0 1 48.51969 105.7656 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 103.7656 cm
+Q
+q
+1 0 0 1 48.51969 85.76562 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 1 Tm 227.9238 0 Td /F1+0 11 Tf 12 TL (proj. 0002) Tj T* -227.9238 0 Td ET
 Q
 Q
 q
-1 0 0 1 48.51969 136.7656 cm
+1 0 0 1 48.51969 84.76562 cm
 Q
 q
 1 0 0 1 42.51969 39.33858 cm
@@ -2306,7 +2370,7 @@ q
 q
 1 0 0 1 6 3 cm
 q
-BT 1 0 0 1 0 3 Tm 12 TL 0 0 0 rg /F1+0 9 Tf 12 TL (2026-06-12       ) Tj /F2+0 9 Tf 12 TL (|) Tj /F1+0 9 Tf 12 TL (       R Ward) Tj T* ET
+BT 1 0 0 1 0 3 Tm 12 TL 0 0 0 rg /F1+0 9 Tf 12 TL (2026-06-26       ) Tj /F2+0 9 Tf 12 TL (|) Tj /F1+0 9 Tf 12 TL (       R Ward) Tj T* ET
 Q
 Q
 q
@@ -2329,7 +2393,8 @@ Q
 q
 1 J
 1 j
-1 1 1 RG
+0 0 0 RG
+/gRLs0 gs
 .25 w
 n 0 18 m 524.126 18 l S
 n 0 0 m 524.126 0 l S
@@ -2344,16 +2409,16 @@ Q
  
 endstream
 endobj
-36 0 obj
+40 0 obj
 <<
-/Length 1534
+/Length 2093
 >>
 stream
 1 0 0 1 0 0 cm 
 q
 1 0 0 1 51.35433 734.315 cm
 q
-BT 1 0 0 1 0 3 Tm 12 TL 0 0 0 rg /F2+0 9 Tf 12 TL (Flag Pole Foundation) Tj /F1+0 9 Tf 12 TL ( - v1.0.0a12) Tj T* ET
+BT 1 0 0 1 0 3 Tm 12 TL 0 0 0 rg /F2+0 9 Tf 12 TL (Example 2 - Flagpole Foundation) Tj /F1+0 9 Tf 12 TL ( - v1.0.0a12) Tj T* ET
 Q
 Q
 q
@@ -2381,28 +2446,54 @@ BT 1 0 0 1 0 2.16 Tm 12.96 TL .133333 .133333 .133333 rg /F2+0 10.8 Tf 12.96 TL 
 Q
 Q
 q
-1 0 0 1 51.35433 643.2085 cm
+1 0 0 1 51.35433 609.6085 cm
 q
 0 0 0 rg
 q
-1 0 0 1 0 3 cm
+1 0 0 1 0 36.6 cm
 q
-BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 .4 .6 rg /F2+0 9 Tf 10.8 TL (0.0 | Project description) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm 10.8 TL 0 .4 .6 rg /F2+0 9 Tf 10.8 TL (0.2 | Project description) Tj T* ET
 Q
 Q
 q
-1 0 0 1 440.126 3 cm
+1 0 0 1 440.126 36.6 cm
 q
 0 .4 .6 rg
 BT 1 0 0 1 0 1.8 Tm 65.73779 0 Td /F2+0 9 Tf 10.8 TL (1) Tj T* -65.73779 0 Td ET
 Q
 Q
 q
+1 0 0 1 0 19.8 cm
+q
+BT 1 0 0 1 20 1.8 Tm 10.8 TL 0 .4 .6 rg /F2+0 9 Tf 10.8 TL (0.2 - 2) Tj /F1+0 9 Tf 10.8 TL ( | Design input) Tj T* ET
+Q
+Q
+q
+1 0 0 1 440.126 19.8 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.8 Tm 66.27393 0 Td /F1+0 9 Tf 10.8 TL (1) Tj T* -66.27393 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 20 1.8 Tm 10.8 TL 0 .4 .6 rg /F2+0 9 Tf 10.8 TL (0.2 - 3) Tj /F1+0 9 Tf 10.8 TL ( | Design Results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 440.126 3 cm
+q
+0 .4 .6 rg
+BT 1 0 0 1 0 1.8 Tm 66.27393 0 Td /F1+0 9 Tf 10.8 TL (1) Tj T* -66.27393 0 Td ET
+Q
+Q
+q
 Q
 Q
 Q
 q
-1 0 0 1 51.35433 643.2085 cm
+1 0 0 1 51.35433 609.6085 cm
 Q
 q
 1 0 0 1 45.35433 39.33858 cm
@@ -2414,7 +2505,7 @@ q
 q
 1 0 0 1 6 3 cm
 q
-BT 1 0 0 1 0 3 Tm 12 TL 0 0 0 rg /F1+0 9 Tf 12 TL (2026-06-12       ) Tj /F2+0 9 Tf 12 TL (|) Tj /F1+0 9 Tf 12 TL (       R Ward) Tj T* ET
+BT 1 0 0 1 0 3 Tm 12 TL 0 0 0 rg /F1+0 9 Tf 12 TL (2026-06-26       ) Tj /F2+0 9 Tf 12 TL (|) Tj /F1+0 9 Tf 12 TL (       R Ward) Tj T* ET
 Q
 Q
 q
@@ -2437,7 +2528,8 @@ Q
 q
 1 J
 1 j
-1 1 1 RG
+0 0 0 RG
+/gRLs0 gs
 .25 w
 n 0 18 m 524.126 18 l S
 n 0 0 m 524.126 0 l S
@@ -2452,16 +2544,16 @@ Q
  
 endstream
 endobj
-37 0 obj
+41 0 obj
 <<
-/Length 7889
+/Length 7973
 >>
 stream
 1 0 0 1 0 0 cm 
 q
 1 0 0 1 48.51969 705.718 cm
 q
-BT 1 0 0 1 0 2.16 Tm 12.96 TL .133333 .133333 .133333 rg /F2+0 10.8 Tf 12.96 TL (0.0 | Project description) Tj T* ET
+BT 1 0 0 1 0 2.16 Tm 12.96 TL .133333 .133333 .133333 rg /F2+0 10.8 Tf 12.96 TL (0.2 | Project description) Tj T* ET
 Q
 Q
 q
@@ -2479,7 +2571,7 @@ Q
 q
 1 0 0 1 48.51969 612.4915 cm
 q
-BT 1 0 0 1 0 1.98 Tm 11.88 TL .133333 .133333 .133333 rg /F2+0 9.9 Tf 11.88 TL (0.0 - 2 | Design input) Tj T* ET
+BT 1 0 0 1 0 1.98 Tm 11.88 TL .133333 .133333 .133333 rg /F2+0 9.9 Tf 11.88 TL (0.2 - 2 | Design input) Tj T* ET
 Q
 Q
 q
@@ -2542,7 +2634,7 @@ q
 1 0 0 1 6 123 cm
 q
 .772549 .819608 .772549 rg
-n 0 0 51.22543 12 re f*
+n 0 0 50.45439 12 re f*
 Q
 q
 0 0 0 rg
@@ -2550,10 +2642,10 @@ BT 1 0 0 1 0 3 Tm /F2+0 9 Tf 12 TL (variable) Tj T* ET
 Q
 Q
 q
-1 0 0 1 69.22543 123 cm
+1 0 0 1 68.45439 123 cm
 q
 .772549 .819608 .772549 rg
-n 0 0 57.54797 12 re f*
+n 0 0 62.94527 12 re f*
 Q
 q
 0 0 0 rg
@@ -2561,10 +2653,10 @@ BT 1 0 0 1 0 3 Tm /F2+0 9 Tf 12 TL (value) Tj T* ET
 Q
 Q
 q
-1 0 0 1 138.7734 123 cm
+1 0 0 1 143.3997 123 cm
 q
 .772549 .819608 .772549 rg
-n 0 0 57.54797 12 re f*
+n 0 0 56.69983 12 re f*
 Q
 q
 0 0 0 rg
@@ -2572,10 +2664,10 @@ BT 1 0 0 1 0 3 Tm /F2+0 9 Tf 12 TL ([value]) Tj T* ET
 Q
 Q
 q
-1 0 0 1 208.3214 123 cm
+1 0 0 1 212.0995 123 cm
 q
 .772549 .819608 .772549 rg
-n 0 0 297.8046 12 re f*
+n 0 0 294.0265 12 re f*
 Q
 q
 0 0 0 rg
@@ -2591,21 +2683,21 @@ BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (Mbase) Tj T* ET
 Q
 Q
 q
-1 0 0 1 69.22543 105 cm
+1 0 0 1 68.45439 105 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (24.84 ftkip) Tj T* ET
+BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (24.84 ft-kip) Tj T* ET
 Q
 Q
 q
-1 0 0 1 138.7734 105 cm
+1 0 0 1 143.3997 105 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (33.67 mkN) Tj T* ET
 Q
 Q
 q
-1 0 0 1 208.3214 105 cm
+1 0 0 1 212.0995 105 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (moment at base of flagpole) Tj T* ET
@@ -2619,21 +2711,21 @@ BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (P) Tj T* ET
 Q
 Q
 q
-1 0 0 1 69.22543 87 cm
+1 0 0 1 68.45439 87 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (24.84 kips) Tj T* ET
 Q
 Q
 q
-1 0 0 1 138.7734 87 cm
+1 0 0 1 143.3997 87 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (110.47 kN) Tj T* ET
 Q
 Q
 q
-1 0 0 1 208.3214 87 cm
+1 0 0 1 212.0995 87 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (horizontal load) Tj T* ET
@@ -2647,21 +2739,21 @@ BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (b) Tj T* ET
 Q
 Q
 q
-1 0 0 1 69.22543 69 cm
+1 0 0 1 68.45439 69 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (24.00 inch) Tj T* ET
 Q
 Q
 q
-1 0 0 1 138.7734 69 cm
+1 0 0 1 143.3997 69 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (60.96 cm) Tj T* ET
 Q
 Q
 q
-1 0 0 1 208.3214 69 cm
+1 0 0 1 212.0995 69 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (width of concrete drilled pier) Tj T* ET
@@ -2675,21 +2767,21 @@ BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (PFP) Tj T* ET
 Q
 Q
 q
-1 0 0 1 69.22543 39 cm
+1 0 0 1 68.45439 39 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (200.00 pcf) Tj T* ET
 Q
 Q
 q
-1 0 0 1 138.7734 39 cm
+1 0 0 1 143.3997 39 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 15 Tm /F1+0 9 Tf 12 TL (31.42) Tj T* (kN_m3) Tj T* ET
 Q
 Q
 q
-1 0 0 1 208.3214 39 cm
+1 0 0 1 212.0995 39 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (allowable lateral bearing pressure - sandy gravel) Tj T* ET
@@ -2703,21 +2795,21 @@ BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (h) Tj T* ET
 Q
 Q
 q
-1 0 0 1 69.22543 21 cm
+1 0 0 1 68.45439 21 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (1.50 ft) Tj T* ET
 Q
 Q
 q
-1 0 0 1 138.7734 21 cm
+1 0 0 1 143.3997 21 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (0.46 m) Tj T* ET
 Q
 Q
 q
-1 0 0 1 208.3214 21 cm
+1 0 0 1 212.0995 21 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (height) Tj T* ET
@@ -2731,21 +2823,21 @@ BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (d) Tj T* ET
 Q
 Q
 q
-1 0 0 1 69.22543 3 cm
+1 0 0 1 68.45439 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (10.00 ft) Tj T* ET
 Q
 Q
 q
-1 0 0 1 138.7734 3 cm
+1 0 0 1 143.3997 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (3.05 m) Tj T* ET
 Q
 Q
 q
-1 0 0 1 208.3214 3 cm
+1 0 0 1 212.0995 3 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (initial guess for embedment depth) Tj T* ET
@@ -2769,21 +2861,14 @@ Q
 q
 1 0 0 1 48.51969 206.1129 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL (This command loads Python functions from a file.) Tj T* ET
+BT 1 0 0 1 0 3 Tm 12 TL 0 0 0 rg /F2+0 9 Tf 12 TL (Table 2) Tj /F1+0 9 Tf 12 TL (: Iterative functions \(rvsrc/scripts/pole_embed.py\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 48.51969 188.1129 cm
-q
-BT 1 0 0 1 0 3 Tm 12 TL 0 0 0 rg /F2+0 9 Tf 12 TL (Table 2) Tj /F1+0 9 Tf 12 TL (: Iterative functions \(rvsrc/pole_embed.py\)) Tj T* ET
-Q
+1 0 0 1 48.51969 201.1129 cm
 Q
 q
-1 0 0 1 48.51969 183.1129 cm
-Q
-q
-1 0 0 1 48.51969 129.1129 cm
+1 0 0 1 48.51969 147.1129 cm
 q
 1 1 1 rg
 n 0 54 512.126 -18 re f*
@@ -2858,12 +2943,21 @@ Q
 Q
 Q
 q
-1 0 0 1 48.51969 119.1129 cm
+1 0 0 1 48.51969 137.1129 cm
 Q
 q
-1 0 0 1 48.51969 89.76647 cm
+1 0 0 1 48.51969 107.7665 cm
 0 0 0 RG
 n 0 14.17323 m 512.126 14.17323 l S
+Q
+q
+1 0 0 1 48.51969 85.88647 cm
+q
+BT 1 0 0 1 0 1.98 Tm 11.88 TL .133333 .133333 .133333 rg /F2+0 9.9 Tf 11.88 TL (0.2 - 3 | Design Results) Tj T* ET
+Q
+Q
+q
+1 0 0 1 48.51969 78.88647 cm
 Q
 q
 1 0 0 1 42.51969 776.6614 cm
@@ -2875,7 +2969,7 @@ q
 q
 1 0 0 1 6 3 cm
 q
-BT 1 0 0 1 0 3 Tm 12 TL 0 0 0 rg /F2+0 9 Tf 12 TL (Flag Pole Foundation) Tj /F1+0 9 Tf 12 TL ( - v1.0.0a12         ) Tj /F2+0 9 Tf 12 TL (0.0 | Project description) Tj T* ET
+BT 1 0 0 1 0 3 Tm 12 TL 0 0 0 rg /F2+0 9 Tf 12 TL (Example 2 - Flagpole Foundation) Tj /F1+0 9 Tf 12 TL ( - v1.0.0a12         ) Tj /F2+0 9 Tf 12 TL (0.2 | Project description) Tj T* ET
 Q
 Q
 q
@@ -2912,7 +3006,8 @@ Q
 q
 1 J
 1 j
-1 1 1 RG
+0 0 0 RG
+/gRLs0 gs
 .25 w
 n 0 25 m 524.126 25 l S
 n 0 0 m 524.126 0 l S
@@ -2934,7 +3029,7 @@ q
 q
 1 0 0 1 6 3 cm
 q
-BT 1 0 0 1 0 3 Tm 12 TL 0 0 0 rg /F1+0 9 Tf 12 TL (2026-06-12       ) Tj /F2+0 9 Tf 12 TL (|) Tj /F1+0 9 Tf 12 TL (       R Ward) Tj T* ET
+BT 1 0 0 1 0 3 Tm 12 TL 0 0 0 rg /F1+0 9 Tf 12 TL (2026-06-26       ) Tj /F2+0 9 Tf 12 TL (|) Tj /F1+0 9 Tf 12 TL (       R Ward) Tj T* ET
 Q
 Q
 q
@@ -2957,7 +3052,8 @@ Q
 q
 1 J
 1 j
-1 1 1 RG
+0 0 0 RG
+/gRLs0 gs
 .25 w
 n 0 18 m 524.126 18 l S
 n 0 0 m 524.126 0 l S
@@ -2972,93 +3068,84 @@ Q
  
 endstream
 endobj
-38 0 obj
+42 0 obj
 <<
-/Length 5994
+/Length 5183
 >>
 stream
 1 0 0 1 0 0 cm 
 q
-1 0 0 1 51.35433 706.798 cm
-q
-BT 1 0 0 1 0 1.98 Tm 11.88 TL .133333 .133333 .133333 rg /F2+0 9.9 Tf 11.88 TL (0.0 - 3 | Design Results) Tj T* ET
-Q
-Q
-q
-1 0 0 1 51.35433 699.798 cm
-Q
-q
-1 0 0 1 51.35433 687.798 cm
+1 0 0 1 51.35433 706.678 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 685.798 cm
+1 0 0 1 51.35433 704.678 cm
 Q
 q
-1 0 0 1 51.35433 667.798 cm
+1 0 0 1 51.35433 686.678 cm
 q
 BT 1 0 0 1 0 3 Tm 12 TL 0 0 0 rg /F2+0 9 Tf 12 TL (Eq. 1:) Tj /F1+0 9 Tf 12 TL ( Required embed - nonconstrained) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 541.8743 cm
+1 0 0 1 51.35433 538.478 cm
 q
 q
-.82592 0 0 .82592 0 0 cm
+1 0 0 1 0 0 cm
 q
-1 0 0 1 6.6 7.991087 cm
+1 0 0 1 6.6 6.6 cm
 q
 .662745 .662745 .662745 RG
 .5 w
 .819608 .870588 .870588 rg
-n -6 -6 618.8672 144 re B*
+n -6 -6 510.926 144 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 123 Tm /F4+0 9 Tf 12 TL (depth\001 = Depth_nonconstrained\(d, P, h, b, PFP, 2\)) Tj T*  T* (depth\001 = 15.52 ft     [depth\001] = 4.73 m   | Required embed - nonconstrained) Tj T*  T* (PFP                        d                            h        b                               P) Tj T* (\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002) Tj T* (200.00 pcf                 10.00 ft                     1.50 ft  24.00 inch                      24.84 kips) Tj T* (\002\002\002\002\002                      \002\002\002\002\002                        \002\002\002\002\002    \002\002\002\002\002                           \002\002\002\002\002) Tj T* (allowable lateral bearing  initial guess for embedment  height   width of concrete drilled pier  horizontal load) Tj T* (pressure - sandy gravel    depth                        -        -                               -) Tj T* (\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002) Tj T* ET
+BT 1 0 0 1 0 123 Tm /F4+0 9 Tf 11 TL (depth\001 = Depth_nonconstrained\(d, P, h, b, PFP, 2\)) Tj T*  T* (depth\001 = 15.52 ft     [depth\001] = 4.73 m   | Required embed - nonconstrained) Tj T*  T* (P                h        b                  PFP                 d) Tj T* (\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002) Tj T* (24.84 kips       1.50 ft  24.00 inch         200.00 pcf          10.00 ft) Tj T* (\002\002\002\002\002            \002\002\002\002\002    \002\002\002\002\002              \002\002\002\002\002               \002\002\002\002\002) Tj T* (horizontal load  height   width of concrete  allowable lateral   initial guess for) Tj T* (-                -        drilled pier       bearing pressure -  embedment depth) Tj T* (-                -        -                  sandy gravel        -) Tj T* (\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002) Tj T* ET
 Q
 Q
 Q
 Q
 Q
 q
-1 0 0 1 51.35433 529.8743 cm
+1 0 0 1 51.35433 529.478 cm
 Q
 q
-1 0 0 1 51.35433 517.8743 cm
+1 0 0 1 51.35433 517.478 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 3 Tm /F1+0 9 Tf 12 TL ( ) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 515.8743 cm
+1 0 0 1 51.35433 515.478 cm
 Q
 q
-1 0 0 1 51.35433 497.8743 cm
+1 0 0 1 51.35433 497.478 cm
 q
 BT 1 0 0 1 0 3 Tm 12 TL 0 0 0 rg /F2+0 9 Tf 12 TL (Eq. 2:) Tj /F1+0 9 Tf 12 TL ( Required embed - constrained) Tj T* ET
 Q
 Q
 q
-1 0 0 1 51.35433 371.9507 cm
+1 0 0 1 51.35433 349.278 cm
 q
 q
-.82592 0 0 .82592 0 0 cm
+1 0 0 1 0 0 cm
 q
-1 0 0 1 6.6 7.991087 cm
+1 0 0 1 6.6 6.6 cm
 q
 .662745 .662745 .662745 RG
 .5 w
 .819608 .870588 .870588 rg
-n -6 -6 618.8672 144 re B*
+n -6 -6 510.926 144 re B*
 Q
 q
 0 0 0 rg
-BT 1 0 0 1 0 123 Tm /F4+0 9 Tf 12 TL (depth\003 = Depth_constrained\(d, P, h, b, PFP\)) Tj T*  T* (depth\003 = 7.34 ft     [depth\003] = 2.24 m   | Required embed - constrained) Tj T*  T* (PFP                        d                            h        b                               P) Tj T* (\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002) Tj T* (200.00 pcf                 10.00 ft                     1.50 ft  24.00 inch                      24.84 kips) Tj T* (\002\002\002\002\002                      \002\002\002\002\002                        \002\002\002\002\002    \002\002\002\002\002                           \002\002\002\002\002) Tj T* (allowable lateral bearing  initial guess for embedment  height   width of concrete drilled pier  horizontal load) Tj T* (pressure - sandy gravel    depth                        -        -                               -) Tj T* (\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002) Tj T* ET
+BT 1 0 0 1 0 123 Tm /F4+0 9 Tf 11 TL (depth\003 = Depth_constrained\(d, P, h, b, PFP\)) Tj T*  T* (depth\003 = 7.34 ft     [depth\003] = 2.24 m   | Required embed - constrained) Tj T*  T* (P                h        b                  PFP                 d) Tj T* (\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002) Tj T* (24.84 kips       1.50 ft  24.00 inch         200.00 pcf          10.00 ft) Tj T* (\002\002\002\002\002            \002\002\002\002\002    \002\002\002\002\002              \002\002\002\002\002               \002\002\002\002\002) Tj T* (horizontal load  height   width of concrete  allowable lateral   initial guess for) Tj T* (-                -        drilled pier       bearing pressure -  embedment depth) Tj T* (-                -        -                  sandy gravel        -) Tj T* (\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002  \002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002\002) Tj T* ET
 Q
 Q
 Q
@@ -3074,7 +3161,7 @@ q
 q
 1 0 0 1 6 3 cm
 q
-BT 1 0 0 1 0 3 Tm 12 TL 0 0 0 rg /F2+0 9 Tf 12 TL (Flag Pole Foundation) Tj /F1+0 9 Tf 12 TL ( - v1.0.0a12         ) Tj /F2+0 9 Tf 12 TL (0.0 - 3 | Design Results) Tj T* ET
+BT 1 0 0 1 0 3 Tm 12 TL 0 0 0 rg /F2+0 9 Tf 12 TL (Example 2 - Flagpole Foundation) Tj /F1+0 9 Tf 12 TL ( - v1.0.0a12         ) Tj /F2+0 9 Tf 12 TL (0.2 | Project description) Tj T* ET
 Q
 Q
 q
@@ -3111,7 +3198,8 @@ Q
 q
 1 J
 1 j
-1 1 1 RG
+0 0 0 RG
+/gRLs0 gs
 .25 w
 n 0 25 m 524.126 25 l S
 n 0 0 m 524.126 0 l S
@@ -3133,7 +3221,7 @@ q
 q
 1 0 0 1 6 3 cm
 q
-BT 1 0 0 1 0 3 Tm 12 TL 0 0 0 rg /F1+0 9 Tf 12 TL (2026-06-12       ) Tj /F2+0 9 Tf 12 TL (|) Tj /F1+0 9 Tf 12 TL (       R Ward) Tj T* ET
+BT 1 0 0 1 0 3 Tm 12 TL 0 0 0 rg /F1+0 9 Tf 12 TL (2026-06-26       ) Tj /F2+0 9 Tf 12 TL (|) Tj /F1+0 9 Tf 12 TL (       R Ward) Tj T* ET
 Q
 Q
 q
@@ -3156,7 +3244,8 @@ Q
 q
 1 J
 1 j
-1 1 1 RG
+0 0 0 RG
+/gRLs0 gs
 .25 w
 n 0 18 m 524.126 18 l S
 n 0 0 m 524.126 0 l S
@@ -3171,33 +3260,33 @@ Q
  
 endstream
 endobj
-39 0 obj
+43 0 obj
 <<
-/Nums [ 0 40 0 R 1 41 0 R 2 42 0 R 3 43 0 R ]
+/Nums [ 0 44 0 R 1 45 0 R 2 46 0 R 3 47 0 R ]
 >>
 endobj
-40 0 obj
+44 0 obj
 <<
 /S /D /St 1
 >>
 endobj
-41 0 obj
+45 0 obj
 <<
 /S /D /St 2
 >>
 endobj
-42 0 obj
+46 0 obj
 <<
 /S /D /St 1
 >>
 endobj
-43 0 obj
+47 0 obj
 <<
 /S /D /St 2
 >>
 endobj
 xref
-0 44
+0 48
 0000000000 65535 f 
 0000000061 00000 n 
 0000000134 00000 n 
@@ -3205,53 +3294,57 @@ xref
 0000030403 00000 n 
 0000165499 00000 n 
 0000165809 00000 n 
-0000166115 00000 n 
-0000166282 00000 n 
-0000166449 00000 n 
-0000166731 00000 n 
-0000167038 00000 n 
-0000167297 00000 n 
-0000169231 00000 n 
-0000204959 00000 n 
-0000205218 00000 n 
-0000206557 00000 n 
-0000208506 00000 n 
-0000243702 00000 n 
-0000243972 00000 n 
-0000245326 00000 n 
-0000247272 00000 n 
-0000273236 00000 n 
-0000273499 00000 n 
-0000274868 00000 n 
-0000276829 00000 n 
-0000302141 00000 n 
-0000302413 00000 n 
-0000303787 00000 n 
-0000303893 00000 n 
-0000304148 00000 n 
-0000304222 00000 n 
-0000304372 00000 n 
-0000304496 00000 n 
-0000304621 00000 n 
-0000304701 00000 n 
-0000307580 00000 n 
-0000309166 00000 n 
-0000317107 00000 n 
-0000323153 00000 n 
-0000323221 00000 n 
-0000323255 00000 n 
-0000323289 00000 n 
-0000323323 00000 n 
+0000166151 00000 n 
+0000166318 00000 n 
+0000166485 00000 n 
+0000166653 00000 n 
+0000166822 00000 n 
+0000166991 00000 n 
+0000167160 00000 n 
+0000167506 00000 n 
+0000167849 00000 n 
+0000168144 00000 n 
+0000170078 00000 n 
+0000205806 00000 n 
+0000206065 00000 n 
+0000207404 00000 n 
+0000209353 00000 n 
+0000244549 00000 n 
+0000244819 00000 n 
+0000246173 00000 n 
+0000248119 00000 n 
+0000274083 00000 n 
+0000274346 00000 n 
+0000275715 00000 n 
+0000277676 00000 n 
+0000302988 00000 n 
+0000303260 00000 n 
+0000304634 00000 n 
+0000304740 00000 n 
+0000304995 00000 n 
+0000305069 00000 n 
+0000305218 00000 n 
+0000305342 00000 n 
+0000305468 00000 n 
+0000305549 00000 n 
+0000308817 00000 n 
+0000310962 00000 n 
+0000318987 00000 n 
+0000324222 00000 n 
+0000324290 00000 n 
+0000324324 00000 n 
+0000324358 00000 n 
+0000324392 00000 n 
 trailer
 <<
 /ID 
-[<05eaaf2b417cde264ad539c775e8893f><05eaaf2b417cde264ad539c775e8893f>]
+[<e68b03d833e206e361561d2763a665dd><e68b03d833e206e361561d2763a665dd>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 29 0 R
-/Root 28 0 R
-/Size 44
+/Info 33 0 R
+/Root 32 0 R
+/Size 48
 >>
 startxref
-323357
+324426
 %%EOF

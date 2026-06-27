@@ -1,6 +1,4 @@
 {
-    "editor.detectIndentation": false,
-    "editor.tabSize": 4,
     "window.title": "${dirty}${activeEditorLong}${separator}${separator} profile: ${profileName}${separator} repo: ${activeRepositoryName}",
     "settings.cycle": [
         {
@@ -19,6 +17,8 @@
             ]
         }
     ],
+    "notebook.markup.fontSize": 13,
+    "notebook.output.fontSize": 13,
     "python.terminal.activateEnvironment": true,
     "python.defaultInterpreterPath": "C:/Users/rhh2/Python314",
     "editor.colorDecoratorsActivatedOn": "clickAndHover",
@@ -391,6 +391,7 @@
             "isWholeLine": true,
         },
     ],
+    "terminal.integrated.defaultLocation": "view",
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.scrollback": 5000,
@@ -523,4 +524,22 @@
     "python-envs.pythonProjects": [],
     "python.analysis.autoImportCompletions": false,
     "window.zoomLevel": 1,
+    "favorites.resources": [
+        {
+            "filePath": "rivt-report\\_published\\pdfdocs",
+            "group": "Default"
+        },
+        {
+            "filePath": "rivt-report\\_published\\txtdocs",
+            "group": "Default"
+        },
+        {
+            "filePath": "rivt-report\\_published\\readme",
+            "group": "Default"
+        },
+        {
+            "filePath": "rivt-report\\.vscode",
+            "group": "Default"
+        }
+    ],
 }

@@ -4,7 +4,7 @@ from pathlib import Path
 
 sys.path.append(str(Path(".").resolve()))
 
-project = "Flag Pole Foundation"
+project = "Example 2 - Flagpole Foundation"
 copyright = "-"
 author = "self.R Ward"
 release = "1.0.0a12"
@@ -42,8 +42,8 @@ html_theme_options = {
     "collapse_navigation": True,
     "header_links_before_dropdown": 6,
     "navbar_align": "left",
-    "show_toc_level": 1,
-    "navigation_depth": 1,
+    "show_toc_level": 2,
+    "navigation_depth": 2,
     "footer_start": ["rv-author"],
     "footer_center": ["rv-title"],
     "footer_end": ["rv-date"],

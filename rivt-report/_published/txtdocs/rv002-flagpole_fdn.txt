@@ -1,6 +1,6 @@
 
 --------------------------------------------------------------------------------
-| rivt | Example 2 - Flagpole Foundation | R Ward | v-1.0.0a12 | 2026-06-26 - 05:23PM
+Example 2 - Flagpole Foundation | R Ward | v-1.0.0a12 | 2026-06-26 - 05:07PM
 --------------------------------------------------------------------------------
 
 
@@ -18,7 +18,7 @@ Flagpoles" Embedded pole foundation design is per 2024 IBC Eq 6-1 and Table
 --------------------------------------------------------------------------------
  
           ----------------------------------------
-Fig. 1 - Calculation Diagram [file: rvsrc/img/image1.png  ]
+Fig. 1 - Calculation Diagram 
           ----------------------------------------
 
  
@@ -37,8 +37,7 @@ d           10.00 ft      3.05 m       initial guess for embedment depth
  
  
 
-Table 2: Iterative functions (rvsrc/scripts/pole_embed.py)
-
+Table 2: (from file)
 ============================================  ===========================================
 Function                                      Docstring
 ============================================  ===========================================
@@ -62,15 +61,15 @@ Depth_constrained(d, P, h, dia, PFP)          Calculate required pole embedment 
 
 depth₁ = 15.52 ft   [depth₁] = 4.73 m  | Required embed - nonconstrained
 
-===============  =======  =================  ==================  =================
-P                h        d                  PFP                 b
-===============  =======  =================  ==================  =================
-24.84 kips       1.50 ft  10.00 ft           200.00 pcf          24.00 inch
-—————            —————    —————              —————               —————
-horizontal load  height   initial guess for  allowable lateral   width of concrete
--                -        embedment depth    bearing pressure -  drilled pier
--                -        -                  sandy gravel        -
-===============  =======  =================  ==================  =================
+===============  =================  =======  ==================  =================
+P                b                  h        PFP                 d
+===============  =================  =======  ==================  =================
+24.84 kips       24.00 inch         1.50 ft  200.00 pcf          10.00 ft
+—————            —————              —————    —————               —————
+horizontal load  width of concrete  height   allowable lateral   initial guess for
+-                drilled pier       -        bearing pressure -  embedment depth
+-                -                  -        sandy gravel        -
+===============  =================  =======  ==================  =================
  
 
 ┌  Eq-2 | Required embed - constrained
@@ -80,14 +79,14 @@ horizontal load  height   initial guess for  allowable lateral   width of concre
 
 depth₂ = 7.34 ft   [depth₂] = 2.24 m  | Required embed - constrained
 
-===============  =======  =================  ==================  =================
-P                h        d                  PFP                 b
-===============  =======  =================  ==================  =================
-24.84 kips       1.50 ft  10.00 ft           200.00 pcf          24.00 inch
-—————            —————    —————              —————               —————
-horizontal load  height   initial guess for  allowable lateral   width of concrete
--                -        embedment depth    bearing pressure -  drilled pier
--                -        -                  sandy gravel        -
-===============  =======  =================  ==================  =================
+===============  =================  =======  ==================  =================
+P                b                  h        PFP                 d
+===============  =================  =======  ==================  =================
+24.84 kips       24.00 inch         1.50 ft  200.00 pcf          10.00 ft
+—————            —————              —————    —————               —————
+horizontal load  width of concrete  height   allowable lateral   initial guess for
+-                drilled pier       -        bearing pressure -  embedment depth
+-                -                  -        sandy gravel        -
+===============  =================  =======  ==================  =================
  
  
