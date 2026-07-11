@@ -47,42 +47,48 @@ rv.V("""Design Results
     depth_2 :=: Depth_constrained (d, P, h, b, PFP) | ft, m, 2 | Required embed - constrained
     
     """)
-
 # %% rv.D("""Publish doc
 rv.D("""Publish doc
 
-    | PUBLISH | Example 2 - Flagpole Foundation | html
+    | PUBLISH | Example 2 - Flagpole Foundation | txt
 
     _[[METADATA]] 
+    [process]
+    ;-----------------------------------------
+    doc_verbose = true; if false minmize output during doc processing
+    auto_cfg = true ; if false, config files are not updated from rivt file
     [doc]
-    authors = R Ward
-    version = 1.0.0a12
-    repo = -
+    ;-----------------------------------------
+    authors = R Holland
+    version = 1.0.0a13
+    repo = https://github.com/rivt-info/rivt-single-doc
     license = https://opensource.org/license/mit/
-    copyright = -
-    fork1_authors = -
-    fork1_version = -
-    fork1_repo = -
-    fork1_license = https://opensource.org/license/mit/
-
-    [layout]
-    subtitle =  Pole Embedment  
     copyright = --
-    client = User Example
+    fork1_authors = --
+    fork1_version = --
+    fork1_repo = --
+    fork1_license = https://opensource.org/license/mit/
+    [layout]
+    ;----------------------- cover page and runner settings
+    ;--- add logo files to rvsrc/img folder, size is % page width
+    subtitle =  Pole Embedment
+    copyright = --
+    client = user example
     coverpage = true
-    coverlogo = logo2.png
+    coverlogo = rwlogo.png
     coverlogo_size = 50
     runninglogo = rwlogo.png
     runninglabel = Robert Ward SE
-    project_ref = proj. 0002
+    project_ref = proj. 0003
+    ;------------------------ PDF settings
+    ;--- colors: red, blue, green, black, gray, brown, maroon, gray, olive, cyan
+    ;--- margins: top, right, bottom, left    page size: letter, legal, A4    
+    pdf_link_color = black
+    pdf_link_underline = true
     pdf_pagesize = letter
     pdf_margins = 1in, 1in, 1in, 1in 
-    pdf_link_underline = false
-    ;--- table of contents levels, 1 - prints subdivisions, 2 - adds sections. 
+    ;----------------------- TOC levels
+    ;--- 1: include subdivisions   2: include subdivisions and sections
     toc_level = 2
-
-    [process]
-    doc_verbose = true; if false minimize output during doc processing
-    auto_cfg = true; if false config files are not updated from rivt file
     _[[END]]
     """)

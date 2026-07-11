@@ -1,0 +1,6 @@
+Mbase = 24.835 * ftkips,ftkips,mkN,2,moment at base of flagpole
+P = 24.835 * kips,kips,kN,2,horizontal load
+b = 24 * inch,inch,cm,2,width of concrete drilled pier
+PFP = 200 * p_cf,p_cf,kN_m3,2,allowable lateral bearing pressure - sandy gravel
+h = 1.5 * ft,ft,m,2,height
+d = 10 * ft,ft,m,2,initial guess for embedment depth

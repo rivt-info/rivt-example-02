@@ -542,4 +542,6 @@
             "group": "Default"
         }
     ],
+    "markdown-preview-enhanced.mermaidTheme": "dark",
+    "markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
 }

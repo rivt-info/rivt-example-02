@@ -1,6 +1,6 @@
 
 --------------------------------------------------------------------------------
-| rivt | Example 2 - Flagpole Foundation | R Ward | v-1.0.0a12 | 2026-06-26 - 05:23PM
+| rivt | Example 2 - Flagpole Foundation | R Holland | v-1.0.0a13 | 2026-07-10 - 06:35PM
 --------------------------------------------------------------------------------
 
 
@@ -30,7 +30,7 @@ variable    value         [value]      description
 Mbase       24.84 ft-kip  33.67 mkN    moment at base of flagpole
 P           24.84 kips    110.47 kN    horizontal load
 b           24.00 inch    60.96 cm     width of concrete drilled pier
-PFP         200.00 pcf    31.42 kN_m3  allowable lateral bearing pressure - sandy gravel
+PFP         200.00 p_cf   31.42 kN_m3  allowable lateral bearing pressure - sandy gravel
 h           1.50 ft       0.46 m       height
 d           10.00 ft      3.05 m       initial guess for embedment depth
 ==========  ============  ===========  =================================================
@@ -62,15 +62,15 @@ Depth_constrained(d, P, h, dia, PFP)          Calculate required pole embedment 
 
 depth₁ = 15.52 ft   [depth₁] = 4.73 m  | Required embed - nonconstrained
 
-===============  =======  =================  ==================  =================
-P                h        d                  PFP                 b
-===============  =======  =================  ==================  =================
-24.84 kips       1.50 ft  10.00 ft           200.00 pcf          24.00 inch
-—————            —————    —————              —————               —————
-horizontal load  height   initial guess for  allowable lateral   width of concrete
--                -        embedment depth    bearing pressure -  drilled pier
--                -        -                  sandy gravel        -
-===============  =======  =================  ==================  =================
+===============  =======  =================  =================  ==================
+P                h        b                  d                  PFP
+===============  =======  =================  =================  ==================
+24.84 kips       1.50 ft  24.00 inch         10.00 ft           200.00 p_cf
+—————            —————    —————              —————              —————
+horizontal load  height   width of concrete  initial guess for  allowable lateral
+-                -        drilled pier       embedment depth    bearing pressure -
+-                -        -                  -                  sandy gravel
+===============  =======  =================  =================  ==================
  
 
 ┌  Eq-2 | Required embed - constrained
@@ -80,14 +80,14 @@ horizontal load  height   initial guess for  allowable lateral   width of concre
 
 depth₂ = 7.34 ft   [depth₂] = 2.24 m  | Required embed - constrained
 
-===============  =======  =================  ==================  =================
-P                h        d                  PFP                 b
-===============  =======  =================  ==================  =================
-24.84 kips       1.50 ft  10.00 ft           200.00 pcf          24.00 inch
-—————            —————    —————              —————               —————
-horizontal load  height   initial guess for  allowable lateral   width of concrete
--                -        embedment depth    bearing pressure -  drilled pier
--                -        -                  sandy gravel        -
-===============  =======  =================  ==================  =================
+===============  =======  =================  =================  ==================
+P                h        b                  d                  PFP
+===============  =======  =================  =================  ==================
+24.84 kips       1.50 ft  24.00 inch         10.00 ft           200.00 p_cf
+—————            —————    —————              —————              —————
+horizontal load  height   width of concrete  initial guess for  allowable lateral
+-                -        drilled pier       embedment depth    bearing pressure -
+-                -        -                  -                  sandy gravel
+===============  =======  =================  =================  ==================
  
  
