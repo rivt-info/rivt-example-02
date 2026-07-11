@@ -16,8 +16,7 @@ rv.I("""Project description
     Flagpoles" Embedded pole foundation design is per 2024 IBC Eq 6-1 and Table
     18-I-A. Soil properites are per Table 1806.2 in the 2024 IBC.
     
-    """)
-
+""")
 # %% rv.V("""Design input 
 rv.V("""Design input 
      
@@ -35,8 +34,7 @@ rv.V("""Design input
 
     | PYTHON | rvsrc/scripts/pole_embed.py | Iterative functions
     
-    """)
-
+""")
 # %% rv.V("""Design Results 
 rv.V("""Design Results 
   
@@ -44,7 +42,7 @@ rv.V("""Design Results
      
     depth_2 :=: Depth_constrained (d, P, h, b, PFP) | ft, m, 2 | Required embed - constrained
     
-    """)
+""")
 # %% rv.D("""Publish doc
 rv.D("""Publish doc
 
@@ -89,4 +87,4 @@ rv.D("""Publish doc
     ;--- 1: include subdivisions   2: include subdivisions and sections
     toc_level = 2
     _[[END]]
-    """)
+""")
