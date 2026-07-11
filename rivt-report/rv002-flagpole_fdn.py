@@ -2,13 +2,11 @@
 import rivtlib.rvapi as rv
 
 
-# The following settings change defaults (shown n parenthesis) for each doc. xx
+# The following settings change defaults (shown n parenthesis) for each doc.
 # A leading hash (#) and trailing semicolon (;) are required.
 # rv set_width = 80  ; character width of text output (80)
 # rv no_tag = true ; if false, the API type is added to section number (true)
 # rv private = true ; if false, default section heading changed to public (private)
-
-
 
 # %% rv.I("""Project description
 rv.I("""Project description
