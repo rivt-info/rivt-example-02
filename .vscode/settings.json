@@ -1,5 +1,15 @@
 {
-    "window.title": "${dirty}${activeEditorLong}${separator}${separator} profile: ${profileName}${separator} repo: ${activeRepositoryName}",
+    "search.useIgnoreFiles": false,
+    "search.exclude": {
+        "**/.help": false
+    },
+    "files.exclude": {
+        "**/.help": false
+    },
+    "terminal.integrated.hideOnStartup": "always",
+    "terminal.integrated.focusAfterRun": "none",
+    "terminal.integrated.environmentChangesRelaunch": true,
+    "window.title": "${dirty}${separator}${activeFolderShort}${separator}${activeEditorLong}",
     "settings.cycle": [
         {
             "id": "explorerSort2", // must be unique
@@ -28,47 +38,24 @@
     "projectManager.git.baseFolders": [
         "c:\\git"
     ],
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.editor.pinnedTabSizing": "shrink",
     "explorer.confirmDelete": false,
     "explorer.confirmDragAndDrop": false,
-    "fsdeploy.deployOnSave": true,
-    "fsdeploy.nodes": [
-        {
-            "source": "C:/git/rivt-example-01-git",
-            "target": "E:/OneDrive/StL-rivt/rivt-example-01",
-            "include": "**/*.*",
-            "exclude": ".git,.gitignore",
-            "deleteTargetOnDeploy": true,
-        },
-        {
-            "source": "C:/git/rivt-example-01-git",
-            "target": "E:/OneDrive/StL-rivt/rivt-example-01",
-            "include": "**/*.*",
-            "exclude": ".git,.gitignore",
-            "deleteTargetOnDeploy": true,
-        }
-    ],
     "actionButtons": {
         "defaultColor": "#ff0034",
         "reloadButton": "♻️",
         "loadNpmCommands": false,
         "commands": [
             {
-                "name": "Note",
-                "color": "green",
-                "useVsCodeApi": false,
-                "command": "code note.txt && exit",
-            },
-            {
-                "name": "Setting",
+                "name": "Help",
                 "color": "green",
                 "useVsCodeApi": true,
-                "command": "workbench.action.openSettings2",
-            },
-            {
-                "name": "KeyBind",
-                "color": "green",
-                "useVsCodeApi": true,
-                "command": "workbench.action.openGlobalKeybindings",
+                "command": "workbench.action.quickOpen",
+                "args": [
+                    ".help/helptoc.md",
+                ]
             },
             {
                 "name": "ToggleSpell",
@@ -77,22 +64,22 @@
                 "command": "cSpell.toggleEnableSpellChecker",
             },
             {
+                "name": "AllImages",
+                "color": "green",
+                "useVsCodeApi": true,
+                "command": "vscode-infra.webviewImageViewer"
+            },
+            {
                 "name": "GoTo",
                 "color": "red",
                 "useVsCodeApi": true,
                 "command": "workbench.action.gotoLine",
             },
             {
-                "name": "RunCell",
-                "color": "red",
-                "useVsCodeApi": true,
-                "command": "jupyter.runcurrentcell",
-            },
-            {
                 "name": "FoldAll",
                 "color": "orange",
                 "useVsCodeApi": true,
-                "command": "editor.foldLevel2"
+                "command": "editor.foldAll"
             },
             {
                 "name": "Unfold",
@@ -107,18 +94,6 @@
                 "command": "editor.foldAllExcept"
             },
             {
-                "name": "UnFoldX",
-                "color": "orange",
-                "useVsCodeApi": true,
-                "command": "editor.unfoldAllExcept"
-            },
-            {
-                "name": "Recursive",
-                "color": "orange",
-                "useVsCodeApi": true,
-                "command": "editor.unfoldRecursively"
-            },
-            {
                 "name": "ExplorerSort",
                 "color": "yellow",
                 "useVsCodeApi": true,
@@ -129,7 +104,7 @@
                 "color": "yellow",
                 "useVsCodeApi": true,
                 "command": "ShortcutMenuBar.newFile"
-            }
+            },
         ]
     },
     "todohighlight.include": [
@@ -140,14 +115,30 @@
     "todohighlight.maxFilesForSearch": 5120,
     "todohighlight.toggleURI": false,
     "todohighlight.defaultStyle": {
-        "color": "grey",
+        "color": "#4989a2",
         "backgroundColor": "editor.background",
         "border": "none",
         "isWholeLine": false,
     },
+    "todohighlight.keywordsPattern": "",
     "todohighlight.keywords": [
         {
+            "text": "\n",
+            "color": "#e8c468",
+            "isWholeLine": false,
+        },
+        {
+            "text": "new_unit(",
+            "color": "#4989a2",
+            "isWholeLine": false,
+        },
+        {
             "text": "# %%",
+            "color": "#a19e6d",
+            "isWholeLine": true,
+        },
+        {
+            "text": "-----------",
             "color": "#a19e6d",
             "isWholeLine": true,
         },
@@ -183,7 +174,7 @@
         },
         {
             "text": "rv.X(",
-            "color": "darkorange",
+            "color": "red",
             "isWholeLine": true,
         },
         {
@@ -253,6 +244,10 @@
             "color": "#0f8f69",
         },
         {
+            "text": "| VALDATA |",
+            "color": "#0f8f69",
+        },
+        {
             "text": "| PUBLISH |",
             "color": "#0f8f69",
         },
@@ -265,7 +260,15 @@
             "color": "#0f8f69",
         },
         {
-            "text": "| MARKUP |",
+            "text": "| FUNCTION |",
+            "color": "#0f8f69",
+        },
+        {
+            "text": "| COPY |",
+            "color": "#0f8f69",
+        },
+        {
+            "text": "| SHELL |",
             "color": "#0f8f69",
         },
         {
@@ -326,27 +329,17 @@
             "isWholeLine": true,
         },
         {
-            "text": "_[[BOX]]",
-            "color": "#4989a2",
-            "isWholeLine": true,
-        },
-        {
             "text": "_[[TABLE]]",
             "color": "#4989a2",
             "isWholeLine": true,
         },
         {
-            "text": "_[[TOPIC]]",
+            "text": "_[[WRITE]]",
             "color": "#4989a2",
             "isWholeLine": true,
         },
         {
-            "text": "_[[INDENT]]",
-            "color": "#4989a2",
-            "isWholeLine": true,
-        },
-        {
-            "text": "_[[ITALLIC]]",
+            "text": "_[[ARGS]]",
             "color": "#4989a2",
             "isWholeLine": true,
         },
@@ -357,16 +350,6 @@
         },
         {
             "text": "_[[PYTHON]]",
-            "color": "#4989a2",
-            "isWholeLine": true,
-        },
-        {
-            "text": "_[[SCRIPT]]",
-            "color": "#4989a2",
-            "isWholeLine": true,
-        },
-        {
-            "text": "_[[LAYOUT]]",
             "color": "#4989a2",
             "isWholeLine": true,
         },
@@ -382,11 +365,6 @@
         },
         {
             "text": "_[[END]]",
-            "color": "#4989a2",
-            "isWholeLine": true,
-        },
-        {
-            "text": "_[[NEWPAGE]]",
             "color": "#4989a2",
             "isWholeLine": true,
         },
@@ -412,52 +390,33 @@
         "gitlens:/**/*.code-snippets": "default",
         "*.svg": "default",
     },
-    "python.languageServer": "Pylance",
-    "[python]": {
-        "editor.indentSize": "tabSize",
-        "editor.formatOnType": false,
-        "editor.formatOnSave": true,
-        "editor.defaultFormatter": "charliermarsh.ruff",
-        "editor.stickyScroll.enabled": false,
-    },
-    "jupyter.interactiveWindow.textEditor.executeSelection": true,
-    "jupyter.askForKernelRestart": false,
-    "python.analysis.enablePytestSupport": false,
-    "notebook.defaultFormatter": "charliermarsh.ruff",
-    "notebook.outline.showCodeCells": true,
-    "notebook.output.textLineLimit": 400,
-    "jupyter.themeMatplotlibPlots": true,
-    "python.terminal.executeInFileDir": true,
-    "jupyter.widgetScriptSources": [
-        "jsdelivr.com",
-        "unpkg.com"
-    ],
-    "jupyter.interactiveWindow.cellMarker.decorateCells": "allCells",
-    "insertDateString.format": "MM-DD-YYYY hh:mm:ss",
-    "insertDateString.formatDate": "MM-DD-YYYY",
-    "seito-openfile.searchSubFoldersOfWorkspaceFolders": [],
-    "seito-openfile.openNewTab": true,
-    "seito-openfile.searchPaths": [],
-    "seito-openfile.notFoundTriggerQuickOpen": false,
     "editor.parameterHints.enabled": false,
     "editor.foldingStrategy": "auto",
     "editor.tokenColorCustomizations": {
-        "[*Dark*]": {
-            "textMateRules": [
-                {
-                    "scope": [
-                        "string.quoted.multi.python",
-                        "meta.function-call.arguments.python",
-                        "meta.function-call.python",
-                        "meta.member.access.python",
-                        "source.python"
-                    ],
-                    "settings": {
-                        "foreground": "#bfc0c0"
-                    }
+        "textMateRules": [
+            {
+                "scope": "string.quoted.single.python",
+                "settings": {
+                    "foreground": "#4baf7f"
+                }
+            },
+            {
+                "scope": "string.quoted.double.python",
+                "settings": {
+                    "foreground": "#61786d"
+                }
+            },
+            {
+                "scope": [
+                    "string.quoted.docstring.multi.python",
+                    "string.quoted.multi.python"
+                ],
+                "settings": {
+                    "foreground": "#a1a1a1",
+                    "fontStyle": "normal"
                 },
-            ]
-        }
+            },
+        ]
     },
     "editor.rulers": [
         {
@@ -488,6 +447,25 @@
     },
     "editor.unicodeHighlight.nonBasicASCII": false,
     "editor.unicodeHighlight.ambiguousCharacters": false,
+    "python.languageServer": "Pylance",
+    "[python]": {
+        "editor.indentSize": "tabSize",
+        "editor.formatOnType": false,
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "charliermarsh.ruff",
+        "editor.stickyScroll.enabled": false,
+    },
+    "python.analysis.enablePytestSupport": false,
+    "notebook.defaultFormatter": "charliermarsh.ruff",
+    "notebook.outline.showCodeCells": true,
+    "notebook.output.textLineLimit": 400,
+    "python.terminal.executeInFileDir": true,
+    "insertDateString.format": "MM-DD-YYYY hh:mm:ss",
+    "insertDateString.formatDate": "MM-DD-YYYY",
+    "seito-openfile.searchSubFoldersOfWorkspaceFolders": [],
+    "seito-openfile.openNewTab": true,
+    "seito-openfile.searchPaths": [],
+    "seito-openfile.notFoundTriggerQuickOpen": false,
     "ShortcutMenuBar.saveAll": true,
     "ShortcutMenuBar.beautify": false,
     "ShortcutMenuBar.showCommands": false,
@@ -497,8 +475,6 @@
     "ShortcutMenuBar.toggleWordWrap": true,
     "ShortcutMenuBar.openFilesList": true,
     "ShortcutMenuBar.findReplace": false,
-    "ShortcutMenuBar.openSettings": false,
-    "latex-workshop.message.warning.show": false,
     "accessibility.verbosity.notification": false,
     "git.postCommitCommand": "sync",
     "git.enableSmartCommit": true,
@@ -526,22 +502,24 @@
     "window.zoomLevel": 1,
     "favorites.resources": [
         {
+            "filePath": "rivt-report\\_published",
+            "group": "Default"
+        },
+        {
+            "filePath": "rivt-report\\_published\\docs",
+            "group": "Default"
+        },
+        {
             "filePath": "rivt-report\\_published\\pdfdocs",
             "group": "Default"
         },
         {
-            "filePath": "rivt-report\\_published\\txtdocs",
+            "filePath": "_pdfdocs",
             "group": "Default"
         },
         {
-            "filePath": "rivt-report\\_published\\readme",
-            "group": "Default"
-        },
-        {
-            "filePath": "rivt-report\\.vscode",
+            "filePath": "_rstdocs",
             "group": "Default"
         }
     ],
-    "markdown-preview-enhanced.mermaidTheme": "dark",
-    "markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
 }

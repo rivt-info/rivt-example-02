@@ -1,9 +1,7 @@
 #! python
 import rivtlib.rvapi as rv
 
-
-# The following settings change defaults (shown n parenthesis) for each doc.
-# A leading hash (#) and trailing semicolon (;) are required.
+# Defaults shown in parenthesis. Hash # and semicolon ; are required. 
 # rv set_width = 80  ; character width of text output (80)
 # rv no_tag = true ; if false, the API type is added to section number (true)
 # rv private = true ; if false, default section heading changed to public (private)
@@ -20,7 +18,7 @@ rv.I("""Project description
 # %% rv.V("""Design input 
 rv.V("""Design input 
      
-    | IMAGE | rvsrc/img/image1.png | Calculation Diagram, 25, num, not  
+    | IMAGE | image1.png | Calculation Diagram, 25, num, not  
 
     Design input _[T]
     Mbase ==: 24.835 * ftkips |ftkips, mkN, 2 | moment at base of flagpole
@@ -30,9 +28,9 @@ rv.V("""Design input
     h ==: 1.5 * ft | ft, m, 2| height
     d ==: 10 * ft | ft, m, 2| initial guess for embedment depth   
 
-    ## This command loads Python functions from a file.
+    ## This command loads the depth_1 and depth_2 functions from a file.
 
-    | PYTHON | rvsrc/scripts/pole_embed.py | Iterative functions
+    | PYTHON | pole_embed.py | Load embedment functions
     
 """)
 # %% rv.V("""Design Results 
@@ -56,8 +54,8 @@ rv.D("""Publish doc
     [doc]
     ;-----------------------------------------
     authors = R Holland
-    version = 1.0.0a13
-    repo = https://github.com/rivt-info/rivt-single-doc
+    version = 1.0.0a17
+    repo = https://github.com/rivt-info/rivt-example-02
     license = https://opensource.org/license/mit/
     copyright = --
     fork1_authors = --
@@ -72,13 +70,14 @@ rv.D("""Publish doc
     client = user example
     coverpage = true
     coverlogo = rwlogo.png
-    coverlogo_size = 50
+    coverlogo_size = 25
     runninglogo = rwlogo.png
     runninglabel = Robert Ward SE
-    project_ref = proj. 0003
+    project_ref = proj. 0002
     ;------------------------ PDF settings
     ;--- colors: red, blue, green, black, gray, brown, maroon, gray, olive, cyan
-    ;--- margins: top, right, bottom, left    page size: letter, legal, A4    
+    ;--- margins: top, right, bottom, left 
+    ;--- page size: letter, legal, A4    
     pdf_link_color = black
     pdf_link_underline = true
     pdf_pagesize = letter

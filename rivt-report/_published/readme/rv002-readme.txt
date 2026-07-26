@@ -1,11 +1,11 @@
 
 --------------------------------------------------------------------------------
-| rivt | Example 2 - Flagpole Foundation | R Holland | v-1.0.0a13 | 2026-07-10 - 06:35PM
+| rivt | Example 2 - Flagpole Foundation | R Holland | v-1.0.0a17 | 2026-07-25 - 11:54PM
 --------------------------------------------------------------------------------
 
 
-0.2 | Project description
-================================================================================
+0.2-1 | Project description
+================================================================================]
  
 Design of embedded pole foundation for the flagpole design example in
 Appendix A of NAAMM/FP 1001-07, "Guide Specifications for Design of Metal
@@ -14,16 +14,16 @@ Flagpoles" Embedded pole foundation design is per 2024 IBC Eq 6-1 and Table
  
  
 
-0.2 - 2 | Design input
+0.2-2 | Design input
 --------------------------------------------------------------------------------
  
           ----------------------------------------
-Fig. 1 - Calculation Diagram [file: rvsrc/img/image1.png  ]
+Fig. 2.1 - Calculation Diagram [file: image1.png  ]
           ----------------------------------------
 
  
 
-Table 1: Design input
+Table 2.1: Design input
 ==========  ============  ===========  =================================================
 variable    value         [value]      description
 ==========  ============  ===========  =================================================
@@ -37,7 +37,7 @@ d           10.00 ft      3.05 m       initial guess for embedment depth
  
  
 
-Table 2: Iterative functions (rvsrc/scripts/pole_embed.py)
+Table 2.2: Load embedment functions (pole_embed.py)
 
 ============================================  ===========================================
 Function                                      Docstring
@@ -51,43 +51,43 @@ Depth_constrained(d, P, h, dia, PFP)          Calculate required pole embedment 
  
  
 
-0.2 - 3 | Design Results
+0.2-3 | Design Results
 --------------------------------------------------------------------------------
  
 
-┌  Eq-1 | Required embed - nonconstrained
+┌  Eq-3.2 | Required embed - nonconstrained
 │
 │     depth₁ = Depth_nonconstrained(d, P, h, b, PFP, 2)
 └
 
 depth₁ = 15.52 ft   [depth₁] = 4.73 m  | Required embed - nonconstrained
 
-===============  =======  =================  =================  ==================
-P                h        b                  d                  PFP
-===============  =======  =================  =================  ==================
-24.84 kips       1.50 ft  24.00 inch         10.00 ft           200.00 p_cf
-—————            —————    —————              —————              —————
-horizontal load  height   width of concrete  initial guess for  allowable lateral
--                -        drilled pier       embedment depth    bearing pressure -
--                -        -                  -                  sandy gravel
-===============  =======  =================  =================  ==================
+===============  =======  ==================  =================  =================
+P                h        PFP                 b                  d
+===============  =======  ==================  =================  =================
+24.84 kips       1.50 ft  200.00 p_cf         24.00 inch         10.00 ft
+—————            —————    —————               —————              —————
+horizontal load  height   allowable lateral   width of concrete  initial guess for
+-                -        bearing pressure -  drilled pier       embedment depth
+-                -        sandy gravel        -                  -
+===============  =======  ==================  =================  =================
  
 
-┌  Eq-2 | Required embed - constrained
+┌  Eq-3.3 | Required embed - constrained
 │
 │     depth₂ = Depth_constrained(d, P, h, b, PFP)
 └
 
 depth₂ = 7.34 ft   [depth₂] = 2.24 m  | Required embed - constrained
 
-===============  =======  =================  =================  ==================
-P                h        b                  d                  PFP
-===============  =======  =================  =================  ==================
-24.84 kips       1.50 ft  24.00 inch         10.00 ft           200.00 p_cf
-—————            —————    —————              —————              —————
-horizontal load  height   width of concrete  initial guess for  allowable lateral
--                -        drilled pier       embedment depth    bearing pressure -
--                -        -                  -                  sandy gravel
-===============  =======  =================  =================  ==================
+===============  =======  ==================  =================  =================
+P                h        PFP                 b                  d
+===============  =======  ==================  =================  =================
+24.84 kips       1.50 ft  200.00 p_cf         24.00 inch         10.00 ft
+—————            —————    —————               —————              —————
+horizontal load  height   allowable lateral   width of concrete  initial guess for
+-                -        bearing pressure -  drilled pier       embedment depth
+-                -        sandy gravel        -                  -
+===============  =======  ==================  =================  =================
  
  

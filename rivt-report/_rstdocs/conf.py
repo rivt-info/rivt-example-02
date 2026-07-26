@@ -5,9 +5,9 @@ from pathlib import Path
 sys.path.append(str(Path(".").resolve()))
 
 project = "Example 2 - Flagpole Foundation"
-copyright = "-"
-author = "self.R Ward"
-release = "1.0.0a12"
+copyright = "--"
+author = "self.R Holland"
+release = "1.0.0a17"
 
 extensions = [
     "sphinx.ext.githubpages",
