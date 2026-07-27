@@ -44,7 +44,7 @@ rv.V("""Design Results
 # %% rv.D("""Publish doc
 rv.D("""Publish doc
 
-    | PUBLISH | Example 2 - Flagpole Foundation | txt
+    | PUBLISH | Example 2 - Flagpole Foundation | html
 
     _[[METADATA]] 
     [process]

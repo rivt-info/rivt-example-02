@@ -1,6 +1,6 @@
 
 --------------------------------------------------------------------------------
-Example 2 - Flagpole Foundation | R Holland | v-1.0.0a17 | 2026-07-25 - 11:53PM
+Example 2 - Flagpole Foundation | R Holland | v-1.0.0a17 | 2026-07-27 - 01:39PM
 --------------------------------------------------------------------------------
 
 
@@ -62,37 +62,41 @@ Depth_constrained(d, P, h, dia, PFP)          Calculate required pole embedment 
 
 ┌  Eq-3.2 | Required embed - nonconstrained
 │
-│     depth₁ = Depth_nonconstrained(d, P, h, b, PFP, 2)
+│     depth₁ = Depth_nonconstrained(d, P, h,  ↪
+
+│     ↪ b, PFP, 2)
 └
 
 depth₁ = 15.52 ft   [depth₁] = 4.73 m  | Required embed - nonconstrained
 
-=================  ==================  ===============  =================  =======
-d                  PFP                 P                b                  h
-=================  ==================  ===============  =================  =======
-10.00 ft           200.00 p_cf         24.84 kips       24.00 inch         1.50 ft
-—————              —————               —————            —————              —————
-initial guess for  allowable lateral   horizontal load  width of concrete  height
-embedment depth    bearing pressure -  -                drilled pier       -
--                  sandy gravel        -                -                  -
-=================  ==================  ===============  =================  =======
+==================  =================  =======  =================  ===============
+PFP                 b                  h        d                  P
+==================  =================  =======  =================  ===============
+200.00 p_cf         24.00 inch         1.50 ft  10.00 ft           24.84 kips
+—————               —————              —————    —————              —————
+allowable lateral   width of concrete  height   initial guess for  horizontal load
+bearing pressure -  drilled pier       -        embedment depth    -
+sandy gravel        -                  -        -                  -
+==================  =================  =======  =================  ===============
  
 
 ┌  Eq-3.3 | Required embed - constrained
 │
-│     depth₂ = Depth_constrained(d, P, h, b, PFP)
+│     depth₂ = Depth_constrained(d, P, h, b,  ↪
+
+│     ↪ PFP)
 └
 
 depth₂ = 7.34 ft   [depth₂] = 2.24 m  | Required embed - constrained
 
-=================  ==================  ===============  =================  =======
-d                  PFP                 P                b                  h
-=================  ==================  ===============  =================  =======
-10.00 ft           200.00 p_cf         24.84 kips       24.00 inch         1.50 ft
-—————              —————               —————            —————              —————
-initial guess for  allowable lateral   horizontal load  width of concrete  height
-embedment depth    bearing pressure -  -                drilled pier       -
--                  sandy gravel        -                -                  -
-=================  ==================  ===============  =================  =======
+==================  =================  =======  =================  ===============
+PFP                 b                  h        d                  P
+==================  =================  =======  =================  ===============
+200.00 p_cf         24.00 inch         1.50 ft  10.00 ft           24.84 kips
+—————               —————              —————    —————              —————
+allowable lateral   width of concrete  height   initial guess for  horizontal load
+bearing pressure -  drilled pier       -        embedment depth    -
+sandy gravel        -                  -        -                  -
+==================  =================  =======  =================  ===============
  
  

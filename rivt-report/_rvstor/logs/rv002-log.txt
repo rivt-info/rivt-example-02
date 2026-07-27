@@ -1,16 +1,16 @@
-07-25 23:54  rv002-flagpole_fdn   INFO     Doc start
-07-25 23:54  rv002-flagpole_fdn   INFO     rivtlib version: 1.0.0a5
-07-25 23:54  rv002-flagpole_fdn   INFO     rivt backup : c:\git\rivt-example-02-git\rivt-report\_rvstor\logs\rv002-flagpole_fdn.bak
-07-25 23:54  rv002-flagpole_fdn   INFO     Project description
-07-25 23:54  rv002-flagpole_fdn   INFO     SECTION 0.2-1 - type I
-07-25 23:54  rv002-flagpole_fdn   INFO     Design input 
-07-25 23:54  rv002-flagpole_fdn   INFO     SECTION 0.2-2 - type V
-07-25 23:54  rv002-flagpole_fdn   INFO     command : IMAGE
-07-25 23:54  rv002-flagpole_fdn   DEBUG    STREAM b'IHDR' 16 13
-07-25 23:54  rv002-flagpole_fdn   DEBUG    STREAM b'IDAT' 41 8192
-07-25 23:54  rv002-flagpole_fdn   INFO     tag : _[T]
-07-25 23:54  rv002-flagpole_fdn   INFO     command : PYTHON
-07-25 23:54  rv002-flagpole_fdn   INFO     Design Results 
-07-25 23:54  rv002-flagpole_fdn   INFO     SECTION 0.2-3 - type V
-07-25 23:54  rv002-flagpole_fdn   INFO     SECTION : Publish doc
-07-25 23:54  rv002-flagpole_fdn   INFO     block tag : METADATA]]
+07-27 13:40  rv002-flagpole_fdn   INFO     Doc start
+07-27 13:40  rv002-flagpole_fdn   INFO     rivtlib version: 1.0.0a5
+07-27 13:40  rv002-flagpole_fdn   INFO     rivt backup : c:\git\rivt-example-02-git\rivt-report\_rvstor\logs\rv002-flagpole_fdn.bak
+07-27 13:40  rv002-flagpole_fdn   INFO     Project description
+07-27 13:40  rv002-flagpole_fdn   INFO     SECTION 0.2-1 - type I
+07-27 13:40  rv002-flagpole_fdn   INFO     Design input 
+07-27 13:40  rv002-flagpole_fdn   INFO     SECTION 0.2-2 - type V
+07-27 13:40  rv002-flagpole_fdn   INFO     command : IMAGE
+07-27 13:40  rv002-flagpole_fdn   DEBUG    STREAM b'IHDR' 16 13
+07-27 13:40  rv002-flagpole_fdn   DEBUG    STREAM b'IDAT' 41 8192
+07-27 13:40  rv002-flagpole_fdn   INFO     tag : _[T]
+07-27 13:40  rv002-flagpole_fdn   INFO     command : PYTHON
+07-27 13:40  rv002-flagpole_fdn   INFO     Design Results 
+07-27 13:40  rv002-flagpole_fdn   INFO     SECTION 0.2-3 - type V
+07-27 13:40  rv002-flagpole_fdn   INFO     SECTION : Publish doc
+07-27 13:40  rv002-flagpole_fdn   INFO     block tag : METADATA]]
